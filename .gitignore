@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore IDE or editor specific files
+.idea/
+.vscode/
+*.pyc
+
+# Ignore sensitive or generated files
+config.py
+*.log
+*.env
